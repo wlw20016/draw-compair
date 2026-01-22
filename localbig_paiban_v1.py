@@ -145,3 +145,4 @@ def plot_full_grid_custom_font():
 if __name__ == "__main__":
     plot_full_grid_custom_font()
     print('这只是一个版本测试')
+    print('这是第二版的版本测试')
